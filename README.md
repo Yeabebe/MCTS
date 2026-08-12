@@ -171,23 +171,28 @@ Different search budgets are evaluated:
 The notebook includes several visualizations for better understanding of MCTS.
 
 - Search Tree Visualization
-<img width="950" height="658" alt="image" src="https://github.com/user-attachments/assets/6a43d7d6-a6d0-4b06-92ed-6ce53d47c881" />
+<img width="950" height="658" alt="image" src="https://github.com/user-attachments/assets/256df958-687a-4bcf-bc57-8769583d8cfc" />
+
 
 
 - Root Visit Heatmap
-<img width="424" height="405" alt="image" src="https://github.com/user-attachments/assets/10f95e23-8ae5-45e5-91ec-ac7eb23c6e5c" />
+<img width="424" height="405" alt="image" src="https://github.com/user-attachments/assets/f952d2b5-9044-41d1-9199-e6fef1c402b3" />
+
 
 
 - Win Rate vs Simulation Budget
-<img width="764" height="475" alt="image" src="https://github.com/user-attachments/assets/c7b0b8ba-ac17-4864-952b-6398c9d9d229" />
+<img width="764" height="475" alt="image" src="https://github.com/user-attachments/assets/85597256-3b74-40a6-9ef4-1333728603e3" />
+
 
 
 - Runtime vs Simulation Budget
-<img width="686" height="475" alt="image" src="https://github.com/user-attachments/assets/aa1a9dc1-497e-455f-84aa-9df9ef70d09e" />
+<img width="686" height="475" alt="image" src="https://github.com/user-attachments/assets/5b5d401e-49ff-4df7-8e30-7918c601361f" />
+
 
 
 - Baseline vs Optimized Performance Comparison
-<img width="686" height="591" alt="image" src="https://github.com/user-attachments/assets/559df30d-ea14-4ec9-8c7f-3ce528577522" />
+<img width="686" height="591" alt="image" src="https://github.com/user-attachments/assets/f29b9657-9376-4399-ac42-ccfe467f69d3" />
+
 
 
 
